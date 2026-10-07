@@ -63,3 +63,35 @@ A project focused on secure PDF/document handling and cybersecurity.
 **Tech Stack:** Python • Cybersecurity • PDF Processing
 
 🔗 [View SentinelPDF](https://github.com/rahulkumarsingh39807-dotcom/SentinelPDF)
+
+## 🏆 Certifications & Hands-On Learning
+
+### 🔐 Cybersecurity
+
+- 🛡️ Fortinet Cybersecurity Training
+- 🎓 Cisco Networking Academy — Cybersecurity Courses
+- 🧪 TryHackMe — Hands-on Cybersecurity Labs
+- 🔎 Network Security & Threat Analysis
+- 🔐 Cryptography & Secure Communication
+- 🛡️ Cybersecurity Fundamentals
+
+### 🧪 Hands-On Labs
+
+- 🔍 Network Security Labs
+- 🌐 Networking & TCP/IP Labs
+- 🛡️ Threat Detection & Analysis
+- 🔐 Cryptography Experiments
+- 🐧 Linux Security Labs
+- 🧪 TryHackMe Security Challenges
+
+- ## 🌱 Currently Learning
+
+- 🔐 Advanced Cybersecurity
+- 🌐 Computer Networking
+- 🐧 Linux
+- ☁️ Cloud Security
+- 🛡️ Network Security
+- ☕ Java
+- 🐍 Python
+- ⚛️ React.js
+  
