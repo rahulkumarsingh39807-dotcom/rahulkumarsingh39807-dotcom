@@ -94,4 +94,20 @@ A project focused on secure PDF/document handling and cybersecurity.
 - ☕ Java
 - 🐍 Python
 - ⚛️ React.js
-  
+
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumarsingh39807-dotcom&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarsingh39807-dotcom&layout=compact&hide_border=true" height="180"/>
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulkumarsingh39807-dotcom&hide_border=true" />
+</p>
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulkumarsingh39807-dotcom&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
