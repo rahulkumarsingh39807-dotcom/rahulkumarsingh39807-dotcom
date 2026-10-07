@@ -14,3 +14,31 @@ and exploring cybersecurity.
 - 🚀 Building real-world projects
 - 🌱 Currently learning React and JavaScript 
 - 🛠️ Working on SecureBootX
+
+- ## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🔐 Cybersecurity
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Cryptography](https://img.shields.io/badge/Cryptography-6D28D9?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-DC2626?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🌐 Networking
+![Networking](https://img.shields.io/badge/Networking-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2563EB?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
