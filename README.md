@@ -42,3 +42,24 @@ and exploring cybersecurity.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🔐 SecureBootX
+
+A cybersecurity-focused web application designed to provide
+security-related features through a modern and user-friendly interface.
+
+**Tech Stack:** React • JavaScript • Node.js • Express • SQLite
+
+🔗 [View SecureBootX](https://github.com/rahulkumarsingh39807-dotcom/SecureBootX)
+
+---
+
+### 📄 SentinelPDF
+
+A project focused on secure PDF/document handling and cybersecurity.
+
+**Tech Stack:** Python • Cybersecurity • PDF Processing
+
+🔗 [View SentinelPDF](https://github.com/rahulkumarsingh39807-dotcom/SentinelPDF)
