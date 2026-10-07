@@ -111,3 +111,19 @@ A project focused on secure PDF/document handling and cybersecurity.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulkumarsingh39807-dotcom&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:rahulkumarsingh39807@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rahulkumarsingh39807-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+<a href="https://www.linkedin.com/in/rahul-kumar-singh-b66880363/?isSelfProfile=true">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
